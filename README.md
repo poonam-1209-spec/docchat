@@ -1,6 +1,5 @@
-Yes. Based on your **actual DocChat repository**, here is a complete README you can paste directly into `README.md`. I’ve kept the technical claims aligned with what your current repository README says: PyPDFLoader, chunking with ~1000 characters/150 overlap, `all-MiniLM-L6-v2`, FAISS top-4 retrieval, Groq/Llama 3.1, Streamlit, source pages, and the current limitations. ([GitHub][1])
 
-````markdown
+
 # 📄 DocChat — RAG-Based PDF Question Answering
 
 A Retrieval-Augmented Generation (RAG) application that allows users
